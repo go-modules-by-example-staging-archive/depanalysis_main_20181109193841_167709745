@@ -1,0 +1,4 @@
+github.com/myitcvscratch/depanalysis v0.0.0-20181109193802-10df0f66b14b h1:THSRjoMocKvbij84BCTh5jrXxUKrDtkqY9DkVDlFsKE=
+github.com/myitcvscratch/depanalysis v0.0.0-20181109193802-10df0f66b14b/go.mod h1:v0yvLqQ3eFP+JUOArzy62yerIbP2w/crBsAaqcDbry0=
+golang.org/x/tools v0.0.0-20181109202920-92d8274bd7b8 h1:VIvcx91Sk7S/d0CZtYIbqRQSTs0PQsHUcIJTHECUaY4=
+golang.org/x/tools v0.0.0-20181109202920-92d8274bd7b8/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
